@@ -17,7 +17,7 @@ This project demonstrates how to run Selenium for web scraping in a headless env
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ServerlessAutomation.git
+   git clone https://github.com/7smn2219/ServerlessAutomation.git
    cd ServerlessAutomation
    ```
 
